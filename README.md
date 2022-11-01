@@ -55,21 +55,23 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="25" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
 </p>
+<img style="margin:auto" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<div align="center" style="display: flex; gap:50px">
 
-<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-Saji&show_icons=true&count_private=true&hide_border=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=1F2537" style="width: 40%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-Saji&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&hide_border=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=1F2537" style="width: 40%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</div>
+<div align="center" style="display: flex; gap:50px">
 
-</td></tr></table>  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dhanush-Saji&date_format=j%20M%5B%20Y%5D&bg_color=1F2537" style="width: 40%" />
+
+</div> 
 
 <br/>  
-
-  
-
 <br/>  
+ <img alt="Dhanush Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dhanush-Saji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Dhanush-Saji&&style=flat-square)  
