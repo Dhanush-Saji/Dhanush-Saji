@@ -1,15 +1,18 @@
 ![logo](https://github.com/Dhanush-Saji/Dhanush-Saji/blob/main/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Dhanush Saji</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<br>
-<hr>
-<p>From Kerala, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻 who is passionate about building fully functional websites.
+<!-- <h3 align="center">A passionate full stack developer from India</h3> -->
+<h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a></h3>
 
-Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in data structure and algorithms.</p>
-<hr>
-<br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
+# 📝 Summary
+From Kerala, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻 who is passionate about building fully functional websites.
+
+Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in data structure and algorithms.
+
+<br>
+
+# 📍 About Me
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
@@ -18,7 +21,13 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
 - 📫 How to reach me **dhanushsaji1@gmail.com**
 
+- 👯 Self Motivated
+
+- ⚡ Quick learner
+
 - ⚡ Fun fact **I am funny**
+
+- ⚡ Want to Know More About Experiance: Check out My Resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,23 +64,31 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="25" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
 </p>
-<img style="margin:auto" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<br>
+
+# 🏆 GitHub Stats
 <div align="center" style="display: flex; gap:50px">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-Saji&show_icons=true&count_private=true&hide_border=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=1F2537" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-Saji&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&hide_border=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=1F2537" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
 </div>
-<div align="center" style="display: flex; gap:50px">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dhanush-Saji&date_format=j%20M%5B%20Y%5D&bg_color=1F2537" style="width: 40%" />
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=Dhanush-Saji&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
 
 </div> 
 
-<br/>  
-<br/>  
+
  <img alt="Dhanush Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dhanush-Saji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+ 
+ 
+
+![](https://github-profile-trophy.vercel.app/?username=Dhanush-Saji&column=-1&theme=chalk&rank=-?&margin-w=15)
+
+<hr>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Dhanush-Saji&&style=flat-square)  
