@@ -88,4 +88,13 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
 <hr>
 
+<p align="center">
+  You can Support my work by Sharing and giving a ⭐ to my repositories
+ <div align="center">
+   Also, you can fork the repositories if you want.
+ </div>
+
+</p>
+<div align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Dhanush-Saji&label=Profile%20views&color=0e75b6&style=flat" alt="Dhanush-Saji" />
 ![Profile views counter](https://komarev.com/ghpvc/?username=Dhanush-Saji&&style=flat-square)  
