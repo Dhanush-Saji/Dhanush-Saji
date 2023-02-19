@@ -1,4 +1,5 @@
 ![logo](https://github.com/Dhanush-Saji/Dhanush-Saji/blob/main/github-banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Dhanush Saji</h1>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a></h3>
@@ -28,9 +29,9 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 - ⚡ Fun fact **I am funny**
 
 - ⚡ Want to Know More About Experiance: Check out My Resume
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br>
+<h2 align="center"> :pencil: Connect with me:</h2>
+<p align="center">
 <a href="https://linkedin.com/in/dhanush-saji" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -38,9 +39,11 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+
+<h2 align="center"> :pencil: Languages and Tools:</h2>
+<p align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -64,8 +67,8 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
 <br>
 
-<h3 align="left">Familiar IDEs & Deployment sites</h3>
-<p align="left">
+<h2 align="center"> :pencil: Familiar IDEs & Deployment sites</h2>
+<p align="center">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -75,18 +78,20 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 </p>
 <br>
 
-# 🏆 GitHub Stats
-<div align="center" style="display: flex; gap:50px">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-Saji&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+<h2 align="center"> 🏆 GitHub Stats </h2>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
-</div>
+
+ ![dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush-Saji&show_icons=true&locale=en&theme=react&count_private=true) | ![dhanush's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhanush-Saji&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
+| :---: | :---: |
+
+
+
+
 <div align="center" style="display: flex; ">
- 
-<img src="https://streak-stats.demolab.com?user=Dhanush-Saji&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+
 
 </div> 
 <br>
@@ -95,9 +100,14 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
  </div>
  <br>
  
-![](https://github-profile-trophy.vercel.app/?username=Dhanush-Saji&column=-1&theme=chalk&rank=-?&margin-w=15)
+
+<div align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=Dhanush-Saji&column=-1&theme=chalk&rank=-?&margin-w=15" width="80%" />
+ </div>
 
 <hr>
+
+
 
 <p align="center">
   You can Support my work by Sharing and giving a ⭐ to my repositories
