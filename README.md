@@ -1,4 +1,4 @@
-![logo](https://github.com/Dhanush-Saji/Dhanush-Saji/blob/main/github-banner.jpg)
+![logo](https://github.com/Dhanush-Saji/Dhanush-Saji/blob/main/github-banner-22feb.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Dhanush Saji</h1>
