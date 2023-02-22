@@ -1,5 +1,6 @@
 ![logo](https://github.com/Dhanush-Saji/Dhanush-Saji/blob/main/github-banner.jpg)
 
+
 <h1 align="center">Hi 👋, I'm Dhanush Saji</h1>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a></h3>
