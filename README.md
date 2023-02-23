@@ -109,7 +109,10 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 <hr>
 
 
-
+<div align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Dhanush-Saji&label=Profile%20views&color=0e75b6&style=flat" alt="Dhanush-Saji" />
+ <img src='https://visitor-badge.glitch.me/badge?page_id=page.id' alt='visitor-badge' />
+ </div>
 <p align="center">
   You can Support my work by Sharing and giving a ⭐ to my repositories
  <div align="center">
@@ -117,8 +120,7 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
  </div>
 
 </p>
-<div align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Dhanush-Saji&label=Profile%20views&color=0e75b6&style=flat" alt="Dhanush-Saji" />
+
  <div align="center">
   <h3>Best of My Works</h3>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Saji&repo=The-Little-AI&theme=react"/>
