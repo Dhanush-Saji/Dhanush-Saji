@@ -103,7 +103,7 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
  
 
 <div align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=Dhanush-Saji&column=-1&theme=chalk&rank=-?&margin-w=0" width="80%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dhanush-Saji&column=-1&theme=onedark&rank=-?&margin-w=0" width="80%" />
  </div>
 
 <hr>
