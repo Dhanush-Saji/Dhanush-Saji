@@ -123,10 +123,10 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
  <div align="center">
   <h3>Best of My Works</h3>
- <a href='https://github.com/Dhanush-Saji/The-Little-AI' target='_blank'>
+ <a href='https://github.com/Dhanush-Saji/The-Little-AI' target="_blank" rel="noopener noreferrer">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Saji&repo=The-Little-AI&theme=react"/>
  </a>
- <a href='https://github.com/Dhanush-Saji/White-Feather-website' target='_blank'>
+ <a href='https://github.com/Dhanush-Saji/White-Feather-website' target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Saji&repo=White-Feather-website&theme=react"/>
  </a>
 </div>
