@@ -96,11 +96,6 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
 </div> 
 <br>
-<div align="center"> 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dhanush-Saji&theme=react" width="60%" />
- </div>
- <br>
- 
 
 <div align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=Dhanush-Saji&column=-1&theme=onedark&rank=-?&margin-w=0" width="80%" />
