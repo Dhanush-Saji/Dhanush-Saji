@@ -33,12 +33,10 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 <br>
 <h2 align="center"> :pencil: Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/dhanush-saji" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/dhanushsaji" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>
+	<a href="https://dhanush-saji.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://www.linkedin.com/in/dhanush-saji" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:dhanushsaji1@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://dribbble.com/dhanushsaji" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/dribbble.png" alt="dribbble"/></a>
 </p>
 <br>
 
