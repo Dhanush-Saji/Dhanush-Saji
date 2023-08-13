@@ -45,32 +45,32 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
 <h2 align="center"> :pencil: Languages and Tools:</h2>
 <div align="center" style="display: flex; gap:10px">
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" height="30" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" height="30" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" height="30" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" height="30" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" height="30" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" height="30" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="30" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express.js" height="30" /></a>
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery" height="30" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" height="30" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux" height="30" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" height="30" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" height="30" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass" height="30" /></a>
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white" alt="Chakra UI" height="30" /></a>
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" alt="Material UI" height="30" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap" height="30" /></a>
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" height="30" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" height="30" /></a>
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" height="30" /></a>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="Photoshop" height="30" /></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" alt="Illustrator" height="30" /></a>
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white" alt="Adobe XD" height="30" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" height="30" /></a>
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white" alt="Lightroom" height="30" /></a>
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white" alt="After Effects" height="30" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000.svg?&logo=nextdotjs&logoColor=white" alt="NextJS" /></a>
+<a href="https://reactjs.org/" target="_blank"><img  src="https://img.shields.io/badge/React-61DAFB.svg?&logo=React&logoColor=black" alt="React"  /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img  src="https://img.shields.io/badge/HTML5-E34F26.svg?&logo=HTML5&logoColor=white" alt="HTML5"  /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img  src="https://img.shields.io/badge/CSS3-1572B6.svg?&logo=CSS3&logoColor=white" alt="CSS3"  /></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&logo=JavaScript&logoColor=black" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img  src="https://img.shields.io/badge/TypeScript-3178C6.svg?&logo=TypeScript&logoColor=white" alt="TypeScript"  /></a>
+<a href="https://nodejs.org/" target="_blank"><img  src="https://img.shields.io/badge/Node.js-339933.svg?&logo=nodedotjs&logoColor=white" alt="Node.js"  /></a>
+<a href="https://expressjs.com/" target="_blank"><img  src="https://img.shields.io/badge/Express-000000.svg?&logo=Express&logoColor=white" alt="Express.js"  /></a>
+<a href="https://jquery.com/" target="_blank"><img  src="https://img.shields.io/badge/jQuery-0769AD.svg?&logo=jQuery&logoColor=white" alt="jQuery"  /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img  src="https://img.shields.io/badge/MongoDB-47A248.svg?&logo=MongoDB&logoColor=white" alt="MongoDB"  /></a>
+<a href="https://redux.js.org/" target="_blank"><img  src="https://img.shields.io/badge/Redux-764ABC.svg?&logo=Redux&logoColor=white" alt="Redux"  /></a>
+<a href="https://firebase.google.com/" target="_blank"><img  src="https://img.shields.io/badge/Firebase-FFCA28.svg?&logo=Firebase&logoColor=black" alt="Firebase"  /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img  src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS"  /></a>
+<a href="https://sass-lang.com/" target="_blank"><img  src="https://img.shields.io/badge/Sass-CC6699.svg?&logo=Sass&logoColor=white" alt="Sass"  /></a>
+<a href="https://chakra-ui.com/" target="_blank"><img  src="https://img.shields.io/badge/Chakra%20UI-319795.svg?&logo=Chakra-UI&logoColor=white" alt="Chakra UI"  /></a>
+<a href="https://mui.com/" target="_blank"><img  src="https://img.shields.io/badge/MUI-007FFF.svg?&logo=MUI&logoColor=white" alt="Material UI"  /></a>
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img  src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&logo=Bootstrap&logoColor=white" alt="Bootstrap"  /></a>
+<a href="https://styled-components.com/" target="_blank"><img  src="https://img.shields.io/badge/styledcomponents-DB7093.svg?&logo=styled-components&logoColor=white" alt="Styled Components"  /></a>
+<a href="https://github.com/" target="_blank"><img  src="https://img.shields.io/badge/Git-F05032.svg?&logo=Git&logoColor=white" alt="Git"  /></a>
+<a href="https://www.chartjs.org/" target="_blank"><img  src="https://img.shields.io/badge/Chart.js-FF6384.svg?&logo=chartdotjs&logoColor=white" alt="Chart.js"  /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&logo=Adobe-Photoshop&logoColor=white" alt="Photoshop"  /></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img  src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?&logo=Adobe-Illustrator&logoColor=white" alt="Illustrator"  /></a>
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img  src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&logo=Adobe-XD&logoColor=white" alt="Adobe XD"  /></a>
+<a href="https://www.figma.com/" target="_blank"><img  src="https://img.shields.io/badge/Figma-F24E1E.svg?&logo=Figma&logoColor=white" alt="Figma"  /></a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img  src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?&logo=Adobe-Lightroom&logoColor=white" alt="Lightroom"  /></a>
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img  src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?&logo=Adobe-After-Effects&logoColor=white" alt="After Effects"  /></a>
 
 </div>
 
