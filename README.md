@@ -90,15 +90,13 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
 
 
-
- ![dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush-Saji&show_icons=true&locale=en&theme=react&count_private=true) | ![dhanush's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhanush-Saji&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
-| :---: | :---: |
-
+![dhanush's Stats](https://github-readme-stats.vercel.app/api?username=Dhanush-Saji&theme=react&show_icons=true&hide_border=true) | ![dhanush's Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhanush-Saji&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=d38234&fire=e1d038&stroke=00000000&currStreakNum=ff5700&currStreakLabel=A6A6A6&border=00000000) |
+| :---: | :---: | 
 
 
 
 <div align="center" style="display: flex; ">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&layout=compact&theme=react" style="width: 40%" />
 
 
 </div> 
@@ -124,10 +122,12 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
  <div align="center">
   <h3>Best of My Works</h3>
+<div style="display: flex;">
  <a href='https://github.com/Dhanush-Saji/happy-cart' target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Saji&repo=happy-cart&theme=react"/>
+	<button>Happy Cart</button>
  </a>
  <a href='https://github.com/Dhanush-Saji/The-Little-AI' target="_blank" rel="noopener noreferrer">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Saji&repo=The-Little-AI&theme=react"/>
+	<button>The Little AI</button>
  </a>
+</div>
 </div>
