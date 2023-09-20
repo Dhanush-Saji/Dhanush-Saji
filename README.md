@@ -97,7 +97,7 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
 
 <div align="center" style="display: flex; ">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&layout=compact&theme=react" style="width: 40%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&layout=compact&theme=react&exclude_repo=ganesh-project" style="width: 40%" />
 
 
 </div> 
