@@ -55,6 +55,7 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 <a href="https://jquery.com/" target="_blank"><img  src="https://img.shields.io/badge/jQuery-0769AD.svg?&logo=jQuery&logoColor=white" alt="jQuery"  /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img  src="https://img.shields.io/badge/MongoDB-47A248.svg?&logo=MongoDB&logoColor=white" alt="MongoDB"  /></a>
 <a href="https://redux.js.org/" target="_blank"><img  src="https://img.shields.io/badge/Redux-764ABC.svg?&logo=Redux&logoColor=white" alt="Redux"  /></a>
+<a href="https://threejs.org/" target="_blank"><img src="https://img.shields.io/badge/Three.js-000000.svg?&logo=three.js&logoColor=white" alt="ThreeJs" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img  src="https://img.shields.io/badge/Firebase-FFCA28.svg?&logo=Firebase&logoColor=black" alt="Firebase"  /></a>
 <a href="https://www.tailwindcss.com/" target="_blank"><img  src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS"  /></a>
 <a href="https://sass-lang.com/" target="_blank"><img  src="https://img.shields.io/badge/Sass-CC6699.svg?&logo=Sass&logoColor=white" alt="Sass"  /></a>
