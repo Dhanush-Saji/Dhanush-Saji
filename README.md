@@ -30,7 +30,7 @@ Skilled in HTML, CSS, Javascript, ReactJS, NextJS, React Router, NodeJS and good
 
 - ⚡ Fun fact **I am funny**
 
-- ⚡ Want to Know More About Experience: <a target="blank" href='https://drive.google.com/drive/u/1/folders/1khCvNMxDQ_53A6lO2-tWqXyL-RykQHwO'> Check out My Resume </a>
+- ⚡ Want to Know More About Experience: <a target="_blank" href='https://drive.google.com/drive/u/1/folders/1khCvNMxDQ_53A6lO2-tWqXyL-RykQHwO'> Check out My Resume </a>
 <br>
 <h2 align="center"> :pencil: Connect with me:</h2>
 <p align="center">
