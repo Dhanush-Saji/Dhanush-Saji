@@ -5,13 +5,13 @@
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a></h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/jd4Ilyh.gif" />
 
 
 # 📝 Summary
 From Kerala, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻 who is passionate about building fully functional websites.
 
-Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in data structure and algorithms.
+Skilled in HTML, CSS, Javascript, ReactJS, NextJS, React Router, NodeJS and good in data structure and algorithms.
 
 <br>
 
@@ -20,7 +20,7 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Adobe XD, Figma**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, Adobe XD, Figma**
 
 - 📫 How to reach me **dhanushsaji1@gmail.com**
 
@@ -30,7 +30,7 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
 - ⚡ Fun fact **I am funny**
 
-- ⚡ Want to Know More About Experiance: Check out My Resume
+- ⚡ Want to Know More About Experience: <a target="blank" href='https://drive.google.com/drive/u/1/folders/1khCvNMxDQ_53A6lO2-tWqXyL-RykQHwO'> Check out My Resume </a>
 <br>
 <h2 align="center"> :pencil: Connect with me:</h2>
 <p align="center">
