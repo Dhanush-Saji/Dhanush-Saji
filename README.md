@@ -124,12 +124,11 @@ Skilled in HTML, CSS, Javascript, ReactJS, NextJS, React Router, NodeJS and good
 
  <div align="center">
   <h3>Best of My Works</h3>
-<div style="display: flex;">
- <a href='https://github.com/Dhanush-Saji/happy-cart' target="_blank" rel="noopener noreferrer">
-	<button>Happy Cart</button>
- </a>
- <a href='https://github.com/Dhanush-Saji/The-Little-AI' target="_blank" rel="noopener noreferrer">
-	<button>The Little AI</button>
- </a>
-</div>
+<p>
+	<a href='https://github.com/Dhanush-Saji/nexus' target="_blank">Nexus</a>
+	○
+ <a href='https://github.com/Dhanush-Saji/happy-cart' target="_blank">Happy Cart</a>
+	○
+ <a href='https://github.com/Dhanush-Saji/The-Little-AI' target="_blank">The Little AI</a>
+</p>
 </div>
