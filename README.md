@@ -34,7 +34,7 @@ Skilled in HTML, CSS, Javascript, ReactJS, NextJS, React Router, NodeJS and good
 <br>
 <h2 align="center"> :pencil: Connect with me:</h2>
 <p align="center">
-	<a href="https://dhanush-saji.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://www.dhanushsaji.in/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://www.linkedin.com/in/dhanush-saji" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:dhanushsaji1@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://dribbble.com/dhanushsaji" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/dribbble.png" alt="dribbble"/></a>
