@@ -24,7 +24,7 @@ I specialize in the **MERN stack, Next.js, and modern frontend technologies**, w
 - ⚡ 3+ years of experience building **scalable fintech apps, SaaS platforms, and internal tools**  
 - 🛠️ Passionate about **frontend performance, backend architecture, and intuitive UI/UX**  
 - 📫 Reach me: **dhanushsaji1@gmail.com** | [Portfolio](https://www.dhanushsaji.in)
-- Want to Know More About Experience: <a target="_blank" href='https://drive.google.com/file/d/11oJ2x8FfYJ9SitJ-b2Fy0j7nb9j7QQ-G/view?usp=drive_link'> Check out My Resume </a>
+- Want to Know More About Experience: <a target="_blank" href='https://drive.google.com/file/d/11oJ2x8FfYJ9SitJ-b2Fy0j7nb9j7QQ-G/view'> Check out My Resume </a>
 
 <br>
 <h2 align="center"> :pencil: Connect with me:</h2>
