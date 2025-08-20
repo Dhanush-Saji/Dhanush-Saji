@@ -5,39 +5,34 @@
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a></h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/jd4Ilyh.gif" />
+<!--  <img align="right" alt="Coding" width="400" src="https://i.imgur.com/jd4Ilyh.gif" /> -->
 
 
 # 📝 Summary
-From Kerala, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻 who is passionate about building fully functional websites.
+I’m a **Full Stack Developer** with 3+ years of experience building **fintech platforms, SaaS products, and internal tools**.  
+I’ve worked on everything from **NSE/BSE/CDSL API integrations** to developing **eKYC onboarding platforms** and scalable **CRM systems**.  
 
-Skilled in HTML, CSS, Javascript, ReactJS, NextJS, React Router, NodeJS and good in data structure and algorithms.
+I specialize in the **MERN stack, Next.js, and modern frontend technologies**, with a passion for **UI performance, backend architecture, and creating smooth user experiences**.  
 
 <br>
 
-# 📍 About Me
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# 📍 About Me  
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌍 From Kerala, India
+  
+- 💼 Full Stack Developer at **Gainn Fintech Pvt Ltd** (FinTech | SaaS | Trading Platforms)  
+- ⚡ 3+ years of experience building **scalable fintech apps, SaaS platforms, and internal tools**  
+- 🛠️ Passionate about **frontend performance, backend architecture, and intuitive UI/UX**  
+- 📫 Reach me: **dhanushsaji1@gmail.com** | [Portfolio](https://www.dhanushsaji.in)
+- Want to Know More About Experience: <a target="_blank" href='https://drive.google.com/file/d/1LnDELqmsSno74nvnT0gauPqDBw8uhtqD/view'> Check out My Resume </a>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, Adobe XD, Figma**
-
-- 📫 How to reach me **dhanushsaji1@gmail.com**
-
-- 👯 Self Motivated
-
-- ⚡ Quick learner
-
-- ⚡ Fun fact **I am funny**
-
-- ⚡ Want to Know More About Experience: <a target="_blank" href='https://drive.google.com/file/d/1LnDELqmsSno74nvnT0gauPqDBw8uhtqD/view'> Check out My Resume </a>
 <br>
 <h2 align="center"> :pencil: Connect with me:</h2>
 <p align="center">
-	<a href="https://www.dhanushsaji.in/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://www.linkedin.com/in/dhanush-saji" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:dhanushsaji1@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://dribbble.com/dhanushsaji" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/dribbble.png" alt="dribbble"/></a>
+	<a href="https://www.dhanushsaji.in/" target="_blank"><img src="https://img.icons8.com/?size=40&id=VJz2Ob51dvZJ&format=png&color=000000" alt='Profile' /></a>
+	<a href="https://www.linkedin.com/in/dhanush-saji" target="_blank"><img src="https://img.icons8.com/?size=40&id=13930&format=png&color=000000" alt="LinkedIn"/></a>
+	<a href="mailto:dhanushsaji1@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=40&id=tnnUFgHrPmR0&format=png&color=000000" alt="Gmail"/></a>
+	<a href="https://dribbble.com/dhanushsaji" target="_blank"><img src="https://img.icons8.com/?size=40&id=Wkmw3VcFPr8T&format=png&color=000000" alt="dribbble"/></a>
 </p>
 <br>
 
