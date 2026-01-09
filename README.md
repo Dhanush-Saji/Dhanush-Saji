@@ -87,7 +87,7 @@ I specialize in the **MERN stack, Next.js, and modern frontend technologies**, w
 
 
 
-![dhanush's Stats](https://github-readme-stats-dhanu.vercel.app/api?username=Dhanush-Saji&theme=react&show_icons=true&hide_border=true) | ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Dhanush-Saji&theme=github_dark) |
+![dhanush's Stats](https://github-readme-stats-dhanu.vercel.app/api?username=Dhanush-Saji&theme=react&show_icons=true&hide_border=true&include_all_commits=true) | ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Dhanush-Saji&theme=github_dark) |
 | :---: | :---: | 
 
 
